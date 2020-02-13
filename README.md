@@ -1,0 +1,2 @@
+# Spigot-Setup
+Spigot Setup
